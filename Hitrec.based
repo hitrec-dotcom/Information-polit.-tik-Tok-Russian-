@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Моя информация</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px;
+           margin: 40px auto; padding: 0 20px; line-height: 1.6; }
+    h1 { color: #222; }
+  </style>
+</head>
+<body>
+  <h1>Первый на очереди hitrec.</h1>
+  <p>@Hitrec.Based ранее @hitrec223 Это аккаунт в тик токе который выкладывал сначало Эдиты персонажам без политики
+  уже в сентябре этого года он начал вести политический контент.
+  сам он придерживается либерализма и национализма.
+  на аватарке у него стоит персонаж из Fate/Apocrypha, со антивоенным знаком, и с символом анти коммунизма.
+  самое его популярное видео про критику коммунизма, набрало оно 70к просмотров и 10к лайков
+  итог: этот человек ещё пока не популярен, но я желаю ему этого. н</p>
+  </h2>
+  <ul>
+    <li><a href="https://example.com">https://hitrec-dotcom.github.io/%D0%B8%D0%BC%D1%8F-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/</a></li>
+    <li><a href="https://example.com"></a></li>
+  </ul>
+</body>
+</html>
